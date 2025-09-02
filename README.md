@@ -42,8 +42,8 @@
   <a href="https://linkedin.com/in/juliarodriguesdarocha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:juliarodriguesdarocha4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=juliarodriguesdarocha4@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
 
