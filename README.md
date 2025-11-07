@@ -15,37 +15,48 @@
 - 🌱 Always curious about how to transform ideas into impactful solutions  
 ---
 
-### 🛠️ Tech Stack  
+### 💻 Languages and Technologies  
+
 <p align="center">
-  
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript" />
-  <img src="https://img.shields.io/badge/Code-Python-blue?logo=python" />
-  <img src="https://img.shields.io/badge/Code-Java-red?logo=java" />
-  <img src="https://img.shields.io/badge/Code-C-blue?logo=c" />
-  <img src="https://img.shields.io/badge/Code-C++-blue?logo=cplusplus" />
-  <img src="https://img.shields.io/badge/Code-C%23-68217A?logo=csharp" />
-  <img src="https://img.shields.io/badge/Code-PHP-777BB4?logo=php" />
-  <img src="https://img.shields.io/badge/Code-SQL-4479A1?logo=mysql" />
-  <br/>
-  <img src="https://img.shields.io/badge/Framework-React-61DAFB?logo=react" />
-  <!-- <img src="https://img.shields.io/badge/Framework-Node.js-339933?logo=node.js" /> -->
-  <img src="https://img.shields.io/badge/Framework-Django-092E20?logo=django" />
-  <img src="https://img.shields.io/badge/Framework-Bootstrap-7952B3?logo=bootstrap" />
-  <!-- <img src="https://img.shields.io/badge/Database-Firebase-FFCA28?logo=firebase" /> -->
-  
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </p>
 
 ---
 
-### 📫 Connect with me  
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliarodrigues-rocha&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+### 📫 Connect with me   
+
 <p align="center">
   <a href="https://linkedin.com/in/juliarodriguesdarocha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn logo"/>
   </a>
-   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=juliarodriguesdarocha4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:juliarodriguesdarocha4@gmail.com" target="_blank">
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail logo"/>
   </a>
 </p>
+
+
+---
 
 
 
